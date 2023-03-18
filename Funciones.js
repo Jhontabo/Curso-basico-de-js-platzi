@@ -1,4 +1,5 @@
-/* Existen   dos tipos de funciones en js , las declarativas y las de expresion */
+/* Existen   varios tipos de funciones entre ellos estan las funciones
+ declarativas y las de expresion */
 
 //Declarativas 
 
